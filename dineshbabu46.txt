@@ -6,3 +6,4 @@ engineering 5
 college 6
 perundurai 7
 erode 8
+salem 9
