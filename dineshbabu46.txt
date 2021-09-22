@@ -6,9 +6,13 @@ kongu 4
 engineering 5
 college 6
 perundurai 7
+<<<<<<< HEAD
 erode 8
 salem 9
 elammpillai 10
 =======
 engineering 5
 >>>>>>> parent of 7a51de4 (commit 6)
+=======
+erode 8
+>>>>>>> parent of ea0df38 (commit 9)
