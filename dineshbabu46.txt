@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DINESHBABU 1
 CSE 2
 A 3
@@ -19,3 +20,5 @@ erode 8
 =======
 elammpillai 10
 >>>>>>> parent of 2f9b2df (modified)
+=======
+>>>>>>> parent of 68eb793 (committed 1)
