@@ -2,9 +2,13 @@ DINESHBABU 1
 CSE 2
 A 3
 kongu 4
+<<<<<<< HEAD
 engineering 5
 college 6
 perundurai 7
 erode 8
 salem 9
 elammpillai 10
+=======
+engineering 5
+>>>>>>> parent of 7a51de4 (commit 6)
