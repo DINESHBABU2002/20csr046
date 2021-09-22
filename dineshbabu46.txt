@@ -2,13 +2,13 @@ DINESHBABU 1
 CSE 2
 A 3
 kongu 4
-<<<<<<< HEAD
 engineering 5
 college 6
 perundurai 7
 <<<<<<< HEAD
 erode 8
 salem 9
+<<<<<<< HEAD
 elammpillai 10
 =======
 engineering 5
@@ -16,3 +16,6 @@ engineering 5
 =======
 erode 8
 >>>>>>> parent of ea0df38 (commit 9)
+=======
+elammpillai 10
+>>>>>>> parent of 2f9b2df (modified)
